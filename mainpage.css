@@ -1,0 +1,52 @@
+*{
+    color: black; 
+}
+ 
+ body {
+ background-image: url("megan-dujardin-RKSSxYn96IA-unsplash\ \(1\).jpg");
+ background-position: center;
+ background-size:2100px;
+ background-repeat: repeat;
+}
+
+.logo{
+  margin: 5px; 
+  padding: 0px;
+  
+} 
+img{
+    width: 150px;
+    height: 50px;
+    opacity: 1;
+}
+ 
+
+ header{
+    margin: 0px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+    color: rgb(3, 1, 1);
+ }
+
+
+ .head{ 
+  font-family: "Martian Mono", monospace;
+  font-optical-sizing: auto;
+    text-decoration: none;
+    margin: 5pxx;
+    padding:  5px;
+   display: flex;
+    list-style: none;
+   justify-items: center;
+   gap: 80px;
+  align-items: center;
+
+}
+ a{
+    color: rgb(255, 255, 255);
+    text-decoration: none; 
+
+ }
+
+ 
