@@ -49,4 +49,26 @@ img{
 
  }
 
+fmain{
+ display: flex;  
+ align-items: center;
+ margin-top: 250px;
+ margin-left: 40px;
+ gap:150px;
+}
+
+img{
+ height: 270px; 
+ width: 350px;
+border: 2px;
+border-radius: 500px;
+}
+
+.fmain p{
+  font-size: 20px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-style: normal;
+  line-break: loose;
+}
+
  
